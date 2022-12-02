@@ -3,3 +3,13 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+.container{
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.shopping-list{
+    list-style-type: none;
+}
